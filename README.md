@@ -1,2 +1,2 @@
 # Unsupervised-Anomaly-Detection
-The goal of this Notebook is just to implement these techniques and understand there main caracteristics. 
+I wanted to try a few of these techniques to better understand them. I searched an interesting dataset on Kaggle about anomaly detection with simple exemples. I choose one exemple of NAB datasets (thanks for this datasets) and I implemented a few of these algorithms. The goal of this Notebook is just to implement these techniques and understand there main caracteristics.  
